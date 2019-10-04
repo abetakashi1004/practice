@@ -1,0 +1,27 @@
+
+.main1{
+	height: 200px;
+	background-image: url(img-1/box1.jpg);
+	background-size: cover;
+	}
+
+
+.main2{
+	height: 200px;
+	background-image: url(img-1/box2.jpg);
+	background-size: cover;
+	}
+
+
+.main3{
+	height: 200px;
+	background-image: url(img-1/box3.jpg);
+	background-size: cover;
+	}
+
+
+.main4{
+	height: 200px;
+	background-image: url(img-1/box4.jpg);
+	background-size: cover;
+	}
