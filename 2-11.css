@@ -8,6 +8,9 @@
   display:block;
   clear: both;
 }
+a{
+	text-decoration: none;
+}
 header{
 	width: 100%;
 	height: 70px;
@@ -215,9 +218,88 @@ main{
 }
 
 
+.clear4{
+	width: 100%;
+	padding: 90px;
+}
+.contact{
+	width: 800px;
+	margin: 0 auto;
+}
+.contact-top{
+	text-align: center;
+}
+.contact-title p{
+	font-size: 32px;
+}
+.contact-border{
+	width: 70px;
+	height: 8px;
+	border-bottom: 3px solid #ec715f;
+	margin: auto;
+}
+.contact-list p{
+	margin: 30px 0;
+}
+.contact-bottom{
+	width: 800px;
+}
+.mail-form{
+	width: 400px;
+	height: 160px;
+	float: left;
+	display: inline-block;
+}
+.mail-square{
+	width: 160px;
+	height: 160px;
+	margin: 0 auto;
+}
+.mail-form p{
+	font-size: 20px;
+	padding-bottom: 5px;
+}
+.p5{
+	padding-top: 20px;
+}
+.sns-icon{
+	width: 400px;
+	height: 160px;
+	display: inline-block;
+	float: left;
+}
+.sns-icon p{
+	font-size: 20px;
+}
+.sns-icon i{
+	padding-right: 20px;
+	font-size: 50px;
+}
+.sns-icon i:last-child{
+	padding-right: 0;
+}
+.square{
+	width: 190px;
+	margin: 30px auto;
+}
+.square1{
+	width: 190px;
+	padding-bottom:5px;
+}
+.square2{
+	width: 190px;
+}
 
 
-
-
-
+footer{
+	width: 100%;
+	height: 60px;
+	background-color: #ec715f;
+	text-align: center;
+}
+footer{
+	font-size: 16px;
+	color: #fafafa;
+	line-height: 60px;
+}
 
